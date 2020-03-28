@@ -1,0 +1,4 @@
+# for Ubuntu, install  https://github.com/trezor/cython-hidapi
+pywinusb==0.4.2
+pycrypto==2.6.1
+hidapi==0.9.0.post2
